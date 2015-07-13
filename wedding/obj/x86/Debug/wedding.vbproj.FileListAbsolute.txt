@@ -1,0 +1,32 @@
+C:\Users\verga-konekcorp\AppData\Local\Temporary Projects\wedding\bin\Debug\wedding.exe
+C:\Users\verga-konekcorp\AppData\Local\Temporary Projects\wedding\bin\Debug\wedding.pdb
+C:\Users\verga-konekcorp\AppData\Local\Temporary Projects\wedding\bin\Debug\wedding.xml
+C:\Users\verga-konekcorp\AppData\Local\Temporary Projects\wedding\obj\x86\Debug\wedding.FLaporan.resources
+C:\Users\verga-konekcorp\AppData\Local\Temporary Projects\wedding\obj\x86\Debug\wedding.MainForm.resources
+C:\Users\verga-konekcorp\AppData\Local\Temporary Projects\wedding\obj\x86\Debug\wedding.Resources.resources
+C:\Users\verga-konekcorp\AppData\Local\Temporary Projects\wedding\obj\x86\Debug\wedding.vbproj.GenerateResource.Cache
+C:\Users\verga-konekcorp\AppData\Local\Temporary Projects\wedding\obj\x86\Debug\wedding.exe
+C:\Users\verga-konekcorp\AppData\Local\Temporary Projects\wedding\obj\x86\Debug\wedding.xml
+C:\Users\verga-konekcorp\AppData\Local\Temporary Projects\wedding\obj\x86\Debug\wedding.pdb
+C:\Users\verga-konekcorp\AppData\Local\Temporary Projects\wedding\obj\x86\Debug\wedding.FData.resources
+C:\Users\verga-konekcorp\AppData\Local\Temporary Projects\wedding\obj\x86\Debug\wedding.FKedatangan.resources
+C:\Users\verga-konekcorp\AppData\Local\Temporary Projects\wedding\obj\x86\Debug\wedding.FMultiBarcode.resources
+C:\Users\verga-konekcorp\AppData\Local\Temporary Projects\wedding\obj\x86\Debug\wedding.FSingleBarcode.resources
+C:\Users\verga-konekcorp\AppData\Local\Temporary Projects\wedding\obj\x86\Debug\wedding.FSumbangan.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Debug\wedding.exe
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Debug\wedding.xml
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Debug\wedding.pdb
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\bin\Debug\wedding.exe
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\bin\Debug\wedding.pdb
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\bin\Debug\wedding.xml
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\bin\Debug\IDAutomation.NetAssembly.dll
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Debug\wedding.vbprojResolveAssemblyReference.cache
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Debug\wedding.FData.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Debug\wedding.FKedatangan.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Debug\wedding.FLaporan.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Debug\wedding.FMultiBarcode.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Debug\wedding.FSingleBarcode.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Debug\wedding.FSumbangan.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Debug\wedding.MainForm.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Debug\wedding.Resources.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Debug\wedding.vbproj.GenerateResource.Cache

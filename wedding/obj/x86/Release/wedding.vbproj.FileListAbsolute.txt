@@ -1,0 +1,16 @@
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Release\wedding.FData.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Release\wedding.FKedatangan.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Release\wedding.FLaporan.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Release\wedding.FMultiBarcode.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Release\wedding.FSingleBarcode.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Release\wedding.FSumbangan.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Release\wedding.MainForm.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Release\wedding.Resources.resources
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Release\wedding.vbproj.GenerateResource.Cache
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\bin\Release\wedding.exe
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\bin\Release\wedding.pdb
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\bin\Release\wedding.xml
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\bin\Release\IDAutomation.NetAssembly.dll
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Release\wedding.exe
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Release\wedding.xml
+C:\Users\verga-konekcorp\documents\visual studio 2010\Projects\wedding\wedding\obj\x86\Release\wedding.pdb
