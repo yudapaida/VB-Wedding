@@ -52,10 +52,11 @@
     ' set printing
     Private Sub printDoc_PrintPage(ByVal sender As System.Object, ByVal e As System.Drawing.Printing.PrintPageEventArgs) Handles printDoc.PrintPage
 
-        Dim strLabelBarcode As String = "Barcode :"
+        'Dim strLabelBarcode As String = "Barcode :"
+
 
         '--BARCODE
-        e.Graphics.DrawString(strLabelBarcode, LabelFont.Font, Brushes.Black, 10, 60)
+        'e.Graphics.DrawString(strLabelBarcode, LabelFont.Font, Brushes.Black, 10, 60)
         e.Graphics.DrawString(LabelBarcode.Text, LabelBarcode.Font, Brushes.Black, 90, 60)
 
     End Sub

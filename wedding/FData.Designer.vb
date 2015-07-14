@@ -47,6 +47,7 @@ Partial Class FData
         Me.dgvData.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgvData.Location = New System.Drawing.Point(12, 234)
         Me.dgvData.Name = "dgvData"
+        Me.dgvData.RowHeadersWidth = 50
         Me.dgvData.Size = New System.Drawing.Size(717, 163)
         Me.dgvData.TabIndex = 0
         '
