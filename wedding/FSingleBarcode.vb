@@ -98,4 +98,8 @@
 
         TBInputBarcode.Text = ""
     End Sub
+
+    Private Sub LabelBarcode_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles LabelBarcode.Click
+
+    End Sub
 End Class

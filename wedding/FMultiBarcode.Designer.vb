@@ -23,26 +23,26 @@ Partial Class FMultiBarcode
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.dgvData = New System.Windows.Forms.DataGridView()
-        Me.Label1 = New System.Windows.Forms.Label()
+        Me.ButtonCetak = New System.Windows.Forms.Button()
         CType(Me.dgvData, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'dgvData
         '
         Me.dgvData.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.dgvData.Location = New System.Drawing.Point(14, 240)
+        Me.dgvData.Location = New System.Drawing.Point(12, 128)
         Me.dgvData.Name = "dgvData"
-        Me.dgvData.Size = New System.Drawing.Size(711, 150)
+        Me.dgvData.Size = New System.Drawing.Size(717, 269)
         Me.dgvData.TabIndex = 7
         '
-        'Label1
+        'ButtonCetak
         '
-        Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(268, 107)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(39, 13)
-        Me.Label1.TabIndex = 8
-        Me.Label1.Text = "Label1"
+        Me.ButtonCetak.Location = New System.Drawing.Point(666, 70)
+        Me.ButtonCetak.Name = "ButtonCetak"
+        Me.ButtonCetak.Size = New System.Drawing.Size(75, 23)
+        Me.ButtonCetak.TabIndex = 10
+        Me.ButtonCetak.Text = "Print All"
+        Me.ButtonCetak.UseVisualStyleBackColor = True
         '
         'FMultiBarcode
         '
@@ -50,15 +50,14 @@ Partial Class FMultiBarcode
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(741, 409)
         Me.ControlBox = False
-        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.ButtonCetak)
         Me.Controls.Add(Me.dgvData)
         Me.Name = "FMultiBarcode"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         CType(Me.dgvData, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
-        Me.PerformLayout()
 
     End Sub
     Friend WithEvents dgvData As System.Windows.Forms.DataGridView
-    Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents ButtonCetak As System.Windows.Forms.Button
 End Class
